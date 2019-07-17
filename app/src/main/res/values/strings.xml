@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="about_btn">ABOUT ALC</string>
+    <string name="profile_btn">MY PROFILE</string>
+    <string name="me">profile picture</string>
+    <string name="name_text">Okoth Jerry Onyango</string>
+    <string name="track">Track :</string>
+    <string name="android">Android :</string>
+    <string name="country">Country :</string>
+    <string name="kenya">Kenya:</string>
+    <string name="email">Email:</string>
+    <string name="maila">jerryonyango.95@gmail.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="namba">254715328375</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="slack">\@jerrymatera</string>
+    <string name="devprofile">MY PROFILE</string>
+    <string name="about_alc">About ALC</string>
+</resources>
